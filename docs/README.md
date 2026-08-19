@@ -3,6 +3,17 @@
 ## Overview
 OctoAcme follows an iterative, customer-first approach to project delivery. Our project management processes emphasize clear ownership, data-driven decisions, psychological safety, and incremental value delivery. This documentation suite provides guidance for all phases of the project lifecycle and serves as the entry point for teams and contributors.
 
+## Project management processes
+OctoAcme organizes project work into five primary phases: Initiation, Planning, Execution, Release, and Continuous Improvement. Each phase has clear artifacts and handoffs:
+
+- Initiation — define problem, stakeholders, success metrics, and create the Project One-pager.
+- Planning — break approved initiatives into a prioritized backlog, estimate work, identify dependencies, and define the Definition of Done.
+- Execution — deliver work in small increments using the project board, PR workflow, and CI validation; track progress via standups and delivery syncs.
+- Release — finalize release checks (tests, security scans, release notes), run staging smoke tests, deploy via pipelines, and run post-deploy verifications.
+- Continuous Improvement — run retrospectives, create action items, and measure the impact of improvements.
+
+Cross-cutting activities include risk management, stakeholder communication, quality assurance, and metrics tracking.
+
 ## Key Principles
 - **Customer-first**: Prioritize customer value and usability
 - **Iterative delivery**: Deliver small, testable increments
